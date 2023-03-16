@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://www.allbet-789.com/sitemap_index.xml

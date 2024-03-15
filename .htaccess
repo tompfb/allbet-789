@@ -20,8 +20,8 @@ RewriteRule ^tag/([a-zA-Z-0-9-ก-เ-]+)/([0-9]+)/ tag.php?tag_url=$1&pn=$2
 RewriteRule ^tag/([a-zA-Z0-9-ก-เ/]+)$ tag.php?tag_url=$1
 RewriteRule ^tag/([a-zA-Z-0-9-ก-เ-]+)/ tag.php?tag_url=$1
 
-RewriteRule ^all-articles/([a-zA-Z0-9-ก-เ/]+)$ all-articles.php?pn=$1
-RewriteRule ^all-articles/([a-zA-Z-0-9-ก-เ-]+)/ all-articles.php?pn=$1
+RewriteRule ^articles-all/([a-zA-Z0-9-ก-เ/]+)$ articles-all.php?pn=$1
+RewriteRule ^articles-all/([a-zA-Z-0-9-ก-เ-]+)/ articles-all.php?pn=$1
 
 RewriteRule ^author/([a-zA-Z0-9-ก-เ/]+)/([0-9]+)$ author.php?firstname=$1&pn=$2
 RewriteRule ^author/([a-zA-Z-0-9-ก-เ-]+)/([0-9]+)/ author.php/firstname=$1&pn=$2

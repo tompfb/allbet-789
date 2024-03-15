@@ -55,7 +55,7 @@ if (isset($Fname)) {
                 "position": 2,
                 "name": "บทความทั้งหมด",
                 "item": "https://www.allbet-789.com/all-articles/"
-            }],
+            },
             {
                 "@type": "ListItem",
                 "position": 3,

@@ -17,7 +17,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         echo "
     <url>
     <loc>https://www.allbet-789.com/author/$encode_tag</loc>
-    <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+    <lastmod>2024-03-15T06:44:39+00:00</lastmod>
     <priority>0.75</priority>
     </url>";
     }

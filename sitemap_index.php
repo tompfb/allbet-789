@@ -9,7 +9,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
     <sitemap>
         <loc>https://www.allbet-789.com/sitemap.xml</loc>
-        <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+        <lastmod>2024-03-15T06:44:39+00:00</lastmod>
     </sitemap>
 
 
@@ -21,7 +21,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         echo "
         <sitemap>
             <loc>https://www.allbet-789.com/sitemap-category.xml</loc>
-            <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+            <lastmod>2024-03-15T06:44:39+00:00</lastmod>
         </sitemap> 
       ";
     }
@@ -35,7 +35,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         echo "
         <sitemap>
             <loc>https://www.allbet-789.com/sitemap-tag.xml</loc>
-            <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+            <lastmod>2024-03-15T06:44:39+00:00</lastmod>
         </sitemap>
       ";
     }
@@ -48,7 +48,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         echo "
         <sitemap>
             <loc>https://www.allbet-789.com/sitemap-author.xml</loc>
-            <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+            <lastmod>2024-03-15T06:44:39+00:00</lastmod>
         </sitemap>
       ";
     }
@@ -61,7 +61,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         echo "
             <sitemap>
                 <loc>https://www.allbet-789.com/sitemap-view.xml</loc>
-                <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+                <lastmod>2024-03-15T06:44:39+00:00</lastmod>
             </sitemap>
       ";
     }

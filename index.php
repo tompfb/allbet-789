@@ -197,7 +197,7 @@ if ($key_search) {
         </div>
     </nav>
     <div id="mySidenav" class="sidenav-slide">
-        <span class="closebtn" onclick="closeNav()">&times;</span>
+        <span class="closebtn" onclick="closeNav()">&times;</span> 
         <div class="sidenav">
             <a href="./">Allbet</a>
             <a href="./entrance/">ทางเข้า</a>
